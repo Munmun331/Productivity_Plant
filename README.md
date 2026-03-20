@@ -37,8 +37,7 @@ g++ main.cpp -o app
 
 ## 📊 Functional Modules
 
--**Task Management:** Add, display, and complete tasks
-
+- **Task Management:** Add, display, and complete tasks
 -**Study Sessions:** Pomodoro and normal modes
 -**Achievements:** Track productivity progress
 -**Authentication:** Secure login system
