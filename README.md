@@ -59,9 +59,9 @@ Ideal for students and professionals to:
 -Track productivity progress
 
 ## Screenshots
-(results/output_1.png)
+![](results/output_1.png)
 
-(results/output_2.png)
+![](results/output_2.png)
 
 
 ## 🚀 Future Improvements
