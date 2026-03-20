@@ -25,9 +25,6 @@ Productivity Plant is a console-based productivity application that helps users 
 
 ---
 
-
----
-
 ## 🚀 How to Run
 
 ### Compile
@@ -35,45 +32,52 @@ Productivity Plant is a console-based productivity application that helps users 
 g++ main.cpp -o app
 ```
 
+---
+
 ## 📊 Functional Modules
 
 - **Task Management:** Add, display, and complete tasks
--**Study Sessions:** Pomodoro and normal modes
--**Achievements:** Track productivity progress
--**Authentication:** Secure login system
--**Data Storage:** Saves tasks and achievements
+- **Study Sessions:** Pomodoro and normal modes
+- **Achievements:** Track productivity progress
+- **Authentication:** Secure login system
+- **Data Storage:** Saves tasks and achievements
+---
 
 ## 📚 Concepts Used
 
--Object-Oriented Programming (Classes, Objects)
--File Handling
--Templates
--Exception Handling
--Data Structures (Vectors)
+- Object-Oriented Programming (Classes, Objects)
+- File Handling
+- Templates
+- Exception Handling
+- Data Structures (Vectors)
+
+---
 
 ## 🎯 Use Case
 
 Ideal for students and professionals to:
--Stay focused during study/work
--Manage tasks efficiently
--Track productivity progress
+- Stay focused during study/work
+- Manage tasks efficiently
+- Track productivity progress
+
+---
 
 ## Screenshots
 ![](results/output_1.png)
 
 ![](results/output_2.png)
 
+---
 
 ## 🚀 Future Improvements
 
--GUI-based interface
--Mobile or web version
--Advanced analytics and visualization
--Integration with reminders/notifications
+- GUI-based interface
+- Mobile or web version
+- Advanced analytics and visualization
+- Integration with reminders/notifications
 
-## 👨‍💻 Authors
+---
 
--Munmun Garg
--Saniya Walavalkar
--Tanish
--Aishwarya Dwivedi
+## 👨‍💻 Author
+- Munmun Garg (www.linkedin.com/in/munmun-garg-442159290)
+---
